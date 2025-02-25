@@ -4,7 +4,6 @@ We all know AI is a game changer in software engineering, as much as in any othe
 Networker is a platform that connects skilled hands and motivated workers with employers, making job opportunities more accessible to everyone.
 
 ## Project info
-![net1](https://github.com/user-attachments/assets/d0dc08ca-86ac-429a-85f0-7b62c83b5ed3)
 
 **URL**: https://lovable.dev/projects/9e60d125-ed5f-4345-95ee-dcf988fdece2
 
@@ -14,7 +13,7 @@ There are several ways of editing your application.
 
 **Use Lovable**
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/9e60d125-ed5f-4345-95ee-dcf988fdece2) and start prompting.
+Simply visit the [Lovable Project]  and start prompting.
 
 Changes made via Lovable will be committed automatically to this repo.
 
@@ -22,7 +21,7 @@ Changes made via Lovable will be committed automatically to this repo.
 
 If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+The only requirement is having Node.js & npm installed - [install with nvm]
 
 Follow these steps:
 
@@ -63,11 +62,3 @@ This project is built with .
 - React
 - shadcn-ui
 - Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/9e60d125-ed5f-4345-95ee-dcf988fdece2) and click on Share -> Publish.
-
-## I want to use a custom domain - is that possible?
-
-They don't support custom domains (yet). If you want to deploy your project under your own domain then we recommend using Netlify. Visit their docs for more details: [Custom domains](https://docs.lovable.dev/tips-tricks/custom-domain/)
